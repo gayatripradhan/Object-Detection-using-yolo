@@ -13,11 +13,11 @@ Output:
 - **Run detection for a particular class (eg: person/car)**
 
 > python demo.py --input street.mp4 --output output/person_output.avi --yolo yolo-coco --lable person <br/>
- - Output
+Output
 ![ouput](https://github.com/gayatripradhan/Object-Detection-using-yolo/blob/master/pictures/people.PNG) <br/>
 
 > python demo.py --input street.mp4 --output output/car_output.avi --yolo yolo-coco --lable car <br/>
- - Output 
+ Output 
 ![output](https://github.com/gayatripradhan/Object-Detection-using-yolo/blob/master/pictures/car.PNG) <br/>
 
 Similary, you can detect any object from the list of classes mentioned in yolo-coc/coco.names file.
