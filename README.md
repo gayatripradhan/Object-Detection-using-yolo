@@ -9,13 +9,13 @@ You can download other YOLO models and its corresponding cfg file from this [lin
 > python demo.py --input street.mp4 --output output/bus_output.avi --yolo yolo-coco --lable all <br/>
 
 Output:
-![](https://github.com/gayatripradhan/Object-Detection-using-yolo/blob/master/pictures/all.PNG =250x250)
+![ouput](https://github.com/gayatripradhan/Object-Detection-using-yolo/blob/master/pictures/all.PNG =250x250)
  
 - Run detection for a particular class (eg: person)
 
 > python demo.py --input street.mp4 --output output/bus_output.avi --yolo yolo-coco --lable person<br/>
-- ![](https://github.com/gayatripradhan/Object-Detection-using-yolo/blob/master/pictures/people.PNG =250x250) <br/>
+- ![ouput](https://github.com/gayatripradhan/Object-Detection-using-yolo/blob/master/pictures/people.PNG =250x250) <br/>
 
 > python demo.py --input street.mp4 --output output/bus_output.avi --yolo yolo-coco --lable car<br/>
-- ![](https://github.com/gayatripradhan/Object-Detection-using-yolo/blob/master/pictures/car.PNG =250x250)
+- ![output](https://github.com/gayatripradhan/Object-Detection-using-yolo/blob/master/pictures/car.PNG =250x250)
 
