@@ -7,6 +7,9 @@ You can download other YOLO models and its corresponding cfg file from this [lin
 
 - Run detection for all objects in the video
 > python demo.py --input street.mp4 --output output/bus_output.avi --yolo yolo-coco --lable all
+
+Output:
+![output](https://github.com/gayatripradhan/Object-Detection-using-yolo/blob/master/pictures/all.PNG)
  
 - Run detection for a particular class (person)
 > python demo.py --input street.mp4 --output output/bus_output.avi --yolo yolo-coco --lable person
