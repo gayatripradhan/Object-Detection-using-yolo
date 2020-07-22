@@ -14,8 +14,8 @@ Output:
 - Run detection for a particular class (eg: person)
 
 > python demo.py --input street.mp4 --output output/bus_output.avi --yolo yolo-coco --lable person<br/>
-- <https://github.com/gayatripradhan/Object-Detection-using-yolo/blob/master/pictures/people.PNG width="250" height="250" /> <br/>
+- ![ouput](https://github.com/gayatripradhan/Object-Detection-using-yolo/blob/master/pictures/people.PNG) <br/>
 
 > python demo.py --input street.mp4 --output output/bus_output.avi --yolo yolo-coco --lable car<br/>
-- ![output](https://github.com/gayatripradhan/Object-Detection-using-yolo/blob/master/pictures/car.PNG =250x250)
+- ![output](https://github.com/gayatripradhan/Object-Detection-using-yolo/blob/master/pictures/car.PNG)
 
